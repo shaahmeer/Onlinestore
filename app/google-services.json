@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "337712045382",
+    "firebase_url": "https://loginregister-5bb93-default-rtdb.firebaseio.com",
+    "project_id": "loginregister-5bb93",
+    "storage_bucket": "loginregister-5bb93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337712045382:android:dde061029cb9115bb75947",
+        "android_client_info": {
+          "package_name": "com.example.diplomnayarabota"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337712045382-5ntq15tqrutromub737hlp92df7jtthk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA791KNE6r90gt4sFjEzdEVlrRaDmz7OMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337712045382-5ntq15tqrutromub737hlp92df7jtthk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337712045382:android:cb3cddd31a8ab3cab75947",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337712045382-5ntq15tqrutromub737hlp92df7jtthk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA791KNE6r90gt4sFjEzdEVlrRaDmz7OMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337712045382-5ntq15tqrutromub737hlp92df7jtthk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
